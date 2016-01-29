@@ -29,10 +29,13 @@ LAB 1
 5. (\w*)\.(jpg|gif|png)$
 6. ^\s*(.*)$
 7. E/\( \d{4}\):\s*at \w*\.\w*\.(\w*)\(([\w.]*):(\d*)
+
 ####Screenshot:
 ![RegexOne](../images/regexone.png)
 
 ##RegexCrossword
-####Answers:
-H|E
-L|P
+####Screenshot
+![RegexCrossword](../images/regexcrossword.png)
+
+##Snap!
+![Snap](../images/snap.png)
