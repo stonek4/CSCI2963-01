@@ -1,7 +1,7 @@
 LAB 1
 =====
 
-## The open source definition opensource.org/osd:
+## The open source definition opensource.org/osd :
 1. Free redistribution - no royalties
 2. Source code - must contain source code that can be distributed
 3. Derived works - must allow for modifications
@@ -19,3 +19,13 @@ LAB 1
 
 ##Screenshot of tree:
 ![Tree](../images/tree.png)
+
+##RegexOne:
+####Answers:
+1.
+  a. abc
+  b. 123
+2. ...\.
+3. [cmf]an
+4. [^b]og
+5.
