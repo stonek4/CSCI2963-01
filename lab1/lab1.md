@@ -22,10 +22,17 @@ LAB 1
 
 ##RegexOne:
 ####Answers:
-1.
-  a. abc
-  b. 123
-2. ...\.
-3. [cmf]an
-4. [^b]og
-5.
+1. ^[\d-.,e]*$
+2. (\d{3})
+3. ([\w.]*)[+@]
+4. <(\w*)
+5. (\w*)\.(jpg|gif|png)$
+6. ^\s*(.*)$
+7. E/\( \d{4}\):\s*at \w*\.\w*\.(\w*)\(([\w.]*):(\d*)
+####Screenshot:
+![RegexOne](../images/regexone.png)
+
+##RegexCrossword
+####Answers:
+H|E
+L|P
