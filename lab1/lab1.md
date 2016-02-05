@@ -41,7 +41,7 @@ LAB 1
 ![Snap](../images/snap.png)
 
 ##Problem/Project Idea
-     I am thinking of a website where people can freely contribute to similar
+I am thinking of a website where people can freely contribute to similar
 to Wikipedia, except the website will be used to view and search through the
 structure of an organization or object.  For example, the website would have a
 search for companies, then you could find departments within the company, and
