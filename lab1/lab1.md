@@ -39,3 +39,16 @@ LAB 1
 
 ##Snap!
 ![Snap](../images/snap.png)
+
+##Problem/Project Idea
+     I am thinking of a website where people can freely contribute to similar
+to Wikipedia, except the website will be used to view and search through the
+structure of an organization or object.  For example, the website would have a
+search for companies, then you could find departments within the company, and
+famous people within those departments.  By selecting something on the website
+you are given a quick fact sheet about that object instead of a full Wikipedia
+page.  The idea is to have a visual search that is somewhere between Wikipedia
+and a quick Google search.  In order to go about this, I would start a Project
+on Github with the proper licensing, and then try to get a team of developers
+together in order to begin structuring the website.  Database manipulation will
+be a huge task as well as coming up with an intuitive and visual user interface.
