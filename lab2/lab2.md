@@ -78,3 +78,13 @@ their redistributions or applications that use the software.
 | [Shuttle Tracking v2](https://github.com/wtg/shuttle_tracking_2) | No! | :( |
 | [Davis Putnam ATP](https://github.com/astonshane/davisputnamGo) | Yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
 | [CloudBench](https://github.com/CloudBench-IDE/cloudbench) | Yes | [Apache v2.0](https://en.wikipedia.org/wiki/Apache_License) |
+
+## Choosing a Project
+Going off of the same project I talked about last time, I would like an open
+source site for making organizations visually searchable.  The site would have
+a community like Wikipedia where anyone can contribute to add information.  The
+site would only have key information however in bullet point fashion, and would
+be more for the discovery of new people and things.  The website would be given
+the GPL license because it is important that the website remains open for
+everyone to continue developing.  It is also important to build a community
+early by opening the project from the start.
