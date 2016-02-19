@@ -9,3 +9,5 @@ LAB 3
 ## Link to [part 3](https://github.com/stonek4/courseproject)
 
 ## Link to [part 5](https://github.com/paulSambolin/Story)
+
+## Link to [part 6](https://github.com/dangothemango/NewStory/tree/Table5)
