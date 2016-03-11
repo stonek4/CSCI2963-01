@@ -1,0 +1,234 @@
+Start testing: Mar 11 00:34 EST
+----------------------------------------------------------
+1/9 Testing: TutorialRuns
+1/9 Test: TutorialRuns
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "25"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialRuns" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Mar 11 00:34 EST
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/9 Testing: TutorialUsage
+2/9 Test: TutorialUsage
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialUsage" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial Version 1.0
+Usage: /home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Mar 11 00:34 EST
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/9 Testing: TutorialComp4
+3/9 Test: TutorialComp4
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "4"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp4" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+The square root of 4 is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[4 is 2
+]
+"TutorialComp4" end time: Mar 11 00:34 EST
+"TutorialComp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/9 Testing: TutorialComp9
+4/9 Test: TutorialComp9
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "9"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp9" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+The square root of 9 is 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[9 is 3
+]
+"TutorialComp9" end time: Mar 11 00:34 EST
+"TutorialComp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/9 Testing: TutorialComp5
+5/9 Test: TutorialComp5
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "5"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp5" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+Computing sqrt of 5 to be 2.23607
+The square root of 5 is 2.23607
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[5 is 2.236
+]
+"TutorialComp5" end time: Mar 11 00:34 EST
+"TutorialComp5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/9 Testing: TutorialComp7
+6/9 Test: TutorialComp7
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "7"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp7" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+Computing sqrt of 7 to be 2.64575
+The square root of 7 is 2.64575
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[7 is 2.645
+]
+"TutorialComp7" end time: Mar 11 00:34 EST
+"TutorialComp7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/9 Testing: TutorialComp25
+7/9 Test: TutorialComp25
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "25"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp25" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[25 is 5
+]
+"TutorialComp25" end time: Mar 11 00:34 EST
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/9 Testing: TutorialComp-25
+8/9 Test: TutorialComp-25
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "-25"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp-25" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-25 is 0
+]
+"TutorialComp-25" end time: Mar 11 00:34 EST
+"TutorialComp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/9 Testing: TutorialComp0.0001
+9/9 Test: TutorialComp0.0001
+Command: "/home/stonek4/Documents/Git/Open_Source/lab5/cmake/Tutorial" "0.0001"
+Directory: /home/stonek4/Documents/Git/Open_Source/lab5/cmake
+"TutorialComp0.0001" start time: Mar 11 00:34 EST
+Output:
+----------------------------------------------------------
+Computing sqrt of 0.0001 to be 0.50005
+Computing sqrt of 0.0001 to be 0.250125
+Computing sqrt of 0.0001 to be 0.125262
+Computing sqrt of 0.0001 to be 0.0630304
+Computing sqrt of 0.0001 to be 0.0323084
+Computing sqrt of 0.0001 to be 0.0177018
+Computing sqrt of 0.0001 to be 0.0116755
+Computing sqrt of 0.0001 to be 0.0101202
+Computing sqrt of 0.0001 to be 0.0100007
+Computing sqrt of 0.0001 to be 0.01
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[0.0001 is 0.01
+]
+"TutorialComp0.0001" end time: Mar 11 00:34 EST
+"TutorialComp0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 11 00:34 EST
