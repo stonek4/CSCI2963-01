@@ -1,0 +1,3 @@
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/CMakeFiles/MakeTable.dir
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/CMakeFiles/Tutorial.dir

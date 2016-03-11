@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/MathFunctions.h
+
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/Table.h
+
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/TutorialConfig.h
+Table.h
+/home/stonek4/Documents/Git/Open_Source/lab5/cmake/MathFunctions/Table.h
+math.h
+-
+
+TutorialConfig.h
+
