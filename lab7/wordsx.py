@@ -24,7 +24,7 @@ def words_graph():
         line = line.decode()
         if line.startswith('*'):
             continue
-        w=str(line[0:5])
+        w=str(line[0:4])
         words.add(w)
     return generate_graph(words)
 
@@ -37,10 +37,8 @@ if __name__ == '__main__':
           %(number_of_nodes(G),number_of_edges(G)))
     print("%d connected components" % number_connected_components(G))
 
-    for (source,target) in [('chaos','order'),
-                            ('nodes','graph'),
-                            ('moron','smart'),
-                            ('pound','marks')]:
+    for (source,target) in [('cold','warm'),
+                            ('love','hate')]:
         print("Shortest path between %s and %s is"%(source,target))
         try:
             sp=shortest_path(G, source, target)
